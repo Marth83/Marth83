@@ -60,3 +60,9 @@ Welcome to my Github profile!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="60" alt="Postico logo" title="Postico" />
           
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Marth83/Marth83/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Marth83/Marth83/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Marth83/Marth83/blob/output/github-snake.svg" />
+</picture>
